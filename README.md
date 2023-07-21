@@ -1,8 +1,7 @@
 <td style="width: 20%;"><img src="https://github.com/Epaminondaslage/OpenPLC/blob/master/img/Logo_CEFET-MG.png" width="20%" /></td>
 <p><strong><span style="color: #0000ff;">Automação Industrial</span></strong></p>
 <p><strong><span style="color: #0000ff;">Prof Epaminondas Lage</span></strong></p>
-<a href="http://lattes.cnpq.br/7787341723868111"> Currículo Lattes LAGE, E. S.</a> 
-
+<a href="http://lattes.cnpq.br/7787341723868111"> Currículo Lattes LAGE, E. S.</a></p>
 
 A automação industrial refere-se à aplicação de tecnologia e sistemas para controlar e operar máquinas e processos industriais de forma automatizada. Ela utiliza sensores, atuadores, controladores e software para substituir ou complementar a intervenção humana, visando melhorar a eficiência, a precisão, a segurança e a produtividade nas indústrias.
 

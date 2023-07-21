@@ -43,7 +43,7 @@ Ao combinar essas três ferramentas, os usuários podem criar um sistema de auto
 * <a href="https://github.com/Epaminondaslage/OpenPLC">Open PLC</a>
 * <a href="https://github.com/Epaminondaslage/openplc-modbus">OpenPLC e ModBus</a>
 * <a href="https://github.com/Epaminondaslage/HomeAssistant-NodeRED">Home Assistan</a>
-* <a href=<"https://github.com/Epaminondaslage/HomeAssistant-OpenPLC>Home Assistant e OpenPLC</a>
+* <a href=<"https://github.com/Epaminondaslage/HomeAssistant-OpenPLC">Home Assistant e OpenPLC</a>
 * <a href="https://github.com/Epaminondaslage/OpenPLC/tree/master/primeirodiagrama">Primeiro diagrama no OpenPLC</a>
 * <a href="https://github.com/Epaminondaslage/OpenPLC/tree/master/cargaruntime">Runtime do OpenPLC no Raspberry</a>
 * <a href="https://github.com/Epaminondaslage/Diagramas-de-comandos-eletricos-de-motores">Diagramas de Comandos Elétricos</a>

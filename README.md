@@ -27,7 +27,7 @@ O OpenPLC emprega o conceito de software PLC, em que o software é executado em 
 
 O Editor OpenPLC é o software que roda em seu computador (Windorws, Mac ou Linux) usado para criar programas para o PLC. É muito simples de usar e suporta todas as cinco linguagens definidas no padrão IEC 61131-3: Ladder Logic (LD), Function Block Diagram (FBD), Instruction List (IL), Structured Text (ST) e Sequential Function Chart ( SFC).
 
-# Modbus e  OpenPlC
+# Modbus e OpenPlC
 
 O OpenPLC e o Modbus são duas tecnologias amplamente utilizadas no campo da automação industrial. 
 

@@ -3,6 +3,16 @@
 <p><strong><span style="color: #0000ff;">Prof Epaminondas Lage</span></strong></p>
 <a href="http://lattes.cnpq.br/7787341723868111"> Currículo Lattes LAGE, E. S.</a></p>
 
+# Índice 
+
+* [Introdução](#Introdução)
+* [Modbus e  OpenPlC](#Modbus-e-OpenPlC)
+* [OpenPLC e Home Assistant](#OpenPLC-e-Home-Assistant)
+* [Node-RED](#Node-RED)
+* [Repositórios Disponíveis](#Repositórios-Disponíveis)  
+
+# Introdução 
+
 A automação industrial refere-se à aplicação de tecnologia e sistemas para controlar e operar máquinas e processos industriais de forma automatizada. Ela utiliza sensores, atuadores, controladores e software para substituir ou complementar a intervenção humana, visando melhorar a eficiência, a precisão, a segurança e a produtividade nas indústrias.
 
 A automação industrial com software de código aberto, como o Open Source, está revolucionando a forma como as empresas operam e gerenciam seus processos de produção. Ao adotar soluções de automação industrial de código aberto, as empresas podem aproveitar uma variedade de benefícios, como flexibilidade, personalização e redução de custos.
@@ -41,7 +51,7 @@ O Node-RED é uma plataforma de automação baseada em fluxos, que permite a cri
 
 Ao combinar essas três ferramentas, os usuários podem criar um sistema de automação residencial altamente personalizado e flexível. Por exemplo, o Home Assistant pode ser usado como a interface principal para controlar dispositivos de iluminação, termostatos e câmeras de segurança, enquanto o OpenPLC pode ser usado para controlar equipamentos industriais em um ambiente de oficina. O Node-RED pode então ser usado para criar automações complexas que interagem entre esses dispositivos e serviços, permitindo cenários sofisticados que atendam às necessidades específicas dos usuários.
 
-## Repositórios Disponíveis  
+# Repositórios Disponíveis  
 
 * <a href="https://github.com/Epaminondaslage/OpenPLC">Open PLC</a>
 * <a href="https://github.com/Epaminondaslage/openplc-modbus">OpenPLC e ModBus</a>

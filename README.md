@@ -61,3 +61,6 @@ Ao combinar essas três ferramentas, os usuários podem criar um sistema de auto
 * <a href="https://github.com/Epaminondaslage/OpenPLC/tree/master/cargaruntime">Runtime do OpenPLC no Raspberry</a>
 * <a href="https://github.com/Epaminondaslage/Diagramas-de-comandos-eletricos-de-motores">Diagramas de Comandos Elétricos</a>
 
+# Status do Projeto
+
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)

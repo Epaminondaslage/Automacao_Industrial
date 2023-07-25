@@ -32,7 +32,7 @@ Essa combinação oferece uma automação residencial mais versátil e abrangent
 
 Por exemplo, é possível criar uma automação que, quando detectar uma alta temperatura no sistema de aquecimento (monitorado pelo OpenPLC via Modbus), acione o ar condicionado ou um ventilador (controlado pelo Home Assistant e NodeRED) para equilibrar a temperatura do ambiente.
 
-# Automação visual por fluxos: NodeRED 
+# Automação visual por fluxos
 
 O NodeRED é uma plataforma de automação baseada em fluxos, que permite a criação visual de automações e integrações. Com o NodeRED, os usuários podem criar fluxos de automação arrastando e conectando blocos de ações, eventos e condições. Ele também oferece suporte a uma ampla variedade de integrações e extensões, tornando-o uma ferramenta poderosa para criar automações complexas e interações personalizadas entre dispositivos e serviços.
 

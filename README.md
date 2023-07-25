@@ -24,7 +24,7 @@ Uma combinação comum é o uso do OpenPLC para criar a lógica de controle e, e
 
 # Integração entre plataformas
 
-A integração entre o Home Assistant, o OpenPLC atrvés do protocolo Modbus oferece uma poderosa solução para automação residencial. O Home Assistant atua como uma plataforma centralizada para gerenciar dispositivos e serviços de automação residencial, enquanto o OpenPLC, usando o protocolo Modbus, fornece a capacidade de controlar equipamentos industriais e dispositivos que usam esse protocolo.
+A integração entre o Home Assistant, o OpenPLC através do protocolo Modbus oferece uma poderosa solução para automação residencial. O Home Assistant atua como uma plataforma centralizada para gerenciar dispositivos e serviços de automação residencial, enquanto o OpenPLC, usando o protocolo Modbus, fornece a capacidade de controlar equipamentos industriais e dispositivos que usam esse protocolo.
 
 Através da integração com o OpenPLC via Modbus, o Home Assistant e o NodeRED pode estender sua funcionalidade para além dos dispositivos de automação residencial padrão, permitindo que os usuários controlem e monitorem equipamentos industriais, como sensores, atuadores e outros dispositivos compatíveis com o protocolo Modbus.
 
